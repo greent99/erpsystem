@@ -1,0 +1,25 @@
+.checkbox-custom{
+    width: 1%;
+}
+.name-custom,.icon-custom{
+    width: 15%;
+}
+.order-id-custom, .date-custom, .total-custom, .view-detail-custom, .action-custom{
+    width: 10%;
+}
+
+.checkbox-custom, .order-id-custom, .total-custom, .view-detail-custom, .action-custom{
+    text-align: center;
+}
+
+.url-custom{
+    width:20%
+}
+.icon-custom{
+    width: 30%;
+}
+
+.image-custom{
+    width:20%;
+}
+

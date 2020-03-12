@@ -1,0 +1,36 @@
+.overlay-custom{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    opacity: 0;
+}
+
+
+/*Modal table*/
+.product-picture-custom, .quantity-item-custom{
+    width: 20%;
+}
+
+.product-item-custom{
+    width: 30%;
+}
+
+.product-picture-custom, .quantity-item-custom, .delete-item-custom{
+    text-align: center;
+}
+
+
+.quantity-item-custom div input{
+    width: 20px;
+}
+
+.delete-item-custom{
+    width: 5%;
+}
+@media only screen and (max-width : 1024px) {
+    input[type=number]::-webkit-inner-spin-button,
+
+    input[type=number]::-webkit-outer-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+}
